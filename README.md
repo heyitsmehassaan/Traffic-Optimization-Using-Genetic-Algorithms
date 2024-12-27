@@ -38,9 +38,9 @@ Traffic Flow Improvement: 25% reduction in congestion compared to baseline.
 
 ## **Future Work**
 
--Implement real-time adaptation to live traffic data.
--Enhance genetic algorithm with advanced operators (e.g., dynamic mutation rates).
--Develop a visualization tool for traffic flow simulation.
+- Implement real-time adaptation to live traffic data.
+- Enhance genetic algorithm with advanced operators (e.g., dynamic mutation rates).
+- Develop a visualization tool for traffic flow simulation.
 
 ##  **Inorder to use Code:**
 
