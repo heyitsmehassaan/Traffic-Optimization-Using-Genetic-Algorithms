@@ -42,10 +42,8 @@ Traffic Flow Improvement: 25% reduction in congestion compared to baseline.
 - Enhance genetic algorithm with advanced operators (e.g., dynamic mutation rates).
 - Develop a visualization tool for traffic flow simulation.
 
-##  **NOTE**
-
-To execute my code yourself, follow these steps:
- **Clone the Repository**  
+##  **Clone Repository** 
+ 
    ```bash
    git clone [https://github.com/heyitsmehassaan/Traffic-Optimization-Using-Genetic-Algorithms]
    ```
