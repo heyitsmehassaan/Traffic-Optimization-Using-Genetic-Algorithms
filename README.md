@@ -3,6 +3,18 @@
 
 ---
 
+## 📚 **Group Members**
+
+- **Student Name:** Muhammad Hassaan Shah
+- **Program:** BS Cybersecurity  
+
+- **Student Name:** Muhammad Bilal 
+- **Program:** BS Cybersecurity  
+ 
+ 
+
+---
+
 ## **Overview**
 
 Traffic congestion is a significant issue in modern urban areas, resulting in delays, pollution, and increased costs. This project demonstrates the application of genetic algorithms to optimize traffic light timings and reduce overall waiting times at intersections. The SimpleTrafficOptimizer class simulates and manages traffic flow across multiple intersections, leveraging evolutionary techniques for optimization.
@@ -17,27 +29,6 @@ Highly Configurable: Supports adjustable parameters for intersections, traffic v
 
 ---
 
-## 📚 **Group Members**
-
-- **Student Name:** Muhammad Hassaan Shah
-- **Program:** BS Cybersecurity  
-
-- **Student Name:** Muhammad Bilal 
-- **Program:** BS Cybersecurity  
- 
- 
-
----
-
-## 🔧 **Getting Started**
-
-To execute my code yourself, follow these steps:
-
-1. **Clone the Repository**  
-   ```bash
-   git clone [https://github.com/heyitsmehassaan/CS-351L-AI-LAB-GITHUB-REPOSITORY-2022385.git](https://github.com/heyitsmehassaan/Traffic-Optimization-Using-Genetic-Algorithms-
-   ```
-   ---
 ## **Example Results**
 
 Simulation Setup
@@ -60,3 +51,11 @@ Implement real-time adaptation to live traffic data.
 Enhance genetic algorithm with advanced operators (e.g., dynamic mutation rates).
 Develop a visualization tool for traffic flow simulation.
 
+##  **Inorder to use Code:**
+
+To execute my code yourself, follow these steps:
+ **Clone the Repository**  
+   ```bash
+   git clone [https://github.com/heyitsmehassaan/CS-351L-AI-LAB-GITHUB-REPOSITORY-2022385.git](https://github.com/heyitsmehassaan/Traffic-Optimization-Using-Genetic-Algorithms-
+   ```
+   ---
