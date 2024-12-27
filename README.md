@@ -47,6 +47,6 @@ Traffic Flow Improvement: 25% reduction in congestion compared to baseline.
 To execute my code yourself, follow these steps:
  **Clone the Repository**  
    ```bash
-   git clone [https://github.com/heyitsmehassaan/CS-351L-AI-LAB-GITHUB-REPOSITORY-2022385.git](https://github.com/heyitsmehassaan/Traffic-Optimization-Using-Genetic-Algorithms-
+   git clone [https://github.com/heyitsmehassaan/Traffic-Optimization-Using-Genetic-Algorithms]
    ```
    ---
