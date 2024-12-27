@@ -1,6 +1,5 @@
 # Traffic Optimization Using Genetic Algorithms: 
 
-Welcome to the **Traffic Optimization Using Genetic Algorithms: ** ! In this Repo, you will find our AI project.
 
 ---
 
