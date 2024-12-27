@@ -6,7 +6,7 @@
 ## 📚 **Group Members**
 
 - **Student Name:** Muhammad Hassaan Shah
-- **Reg. No:** 2022385
+- **Program:** BS Cybersecurity  
 
 - **Student Name:** Muhammad Bilal 
 - **Program:** BS Cybersecurity  
