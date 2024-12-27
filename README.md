@@ -29,15 +29,6 @@ Highly Configurable: Supports adjustable parameters for intersections, traffic v
 
 ---
 
-## **Example Results**
-
-Simulation Setup
-Number of Intersections: 4
-Generations: 100
-Population Size: 50
-
----
-
 ## **Results**
 
 Average Waiting Time: 12.3 seconds
